@@ -1,2 +1,2 @@
-# Noor-ul-ain-Ahmed
+# Noor-ul-ain Ahmed
 This is my first repo
